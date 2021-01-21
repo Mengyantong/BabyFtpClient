@@ -1,2 +1,2 @@
 # BabyFtpClient
-终端运行的ftp客户端
+ftp客户端 socket/c++
